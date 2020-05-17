@@ -30,6 +30,7 @@ span {
     text-align: center;
     padding: 2px;
     height: 30px;
+    /* Didn't added border on the top and right of the title because it was overlapping the border whole section or container. */
     border-left: 1px solid black;
     border-bottom: 1px solid black;
 }
