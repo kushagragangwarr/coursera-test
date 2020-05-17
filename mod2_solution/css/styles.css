@@ -25,11 +25,13 @@ div.container {
 span {
     position: absolute;
     right: 0%;
+    top: 0%;
     font-size: 20px;
     text-align: center;
     padding: 2px;
     height: 30px;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 section.chicken span {
